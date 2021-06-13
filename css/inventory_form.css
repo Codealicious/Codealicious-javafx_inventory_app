@@ -1,0 +1,38 @@
+/* 
+    Created on : Apr 16, 2021, 6:00:34 PM
+    Author     : alexhanson
+*/
+
+.form-field-container {
+    -fx-padding: 30 0 0 30;
+}
+
+.form-title {
+    -fx-font-weight: 900;
+    -fx-font-size: 20;
+}
+
+.input-error-label {
+    -fx-text-fill: red;
+}
+
+.invalid-input {
+    -fx-border-style: solid;
+    -fx-border-width: 2px;
+    -fx-border-color: red;
+    -fx-border-radius: 3px;
+}
+
+.err-text-display {
+    -fx-padding: 0 0 0 20;
+}
+
+.min-wrapper {
+    -fx-padding: 0 0 0 30;
+}
+
+
+
+
+
+

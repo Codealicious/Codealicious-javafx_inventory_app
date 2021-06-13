@@ -1,0 +1,25 @@
+/* 
+    Created on : Apr 19, 2021, 6:31:20 PM
+    Author     : alexhanson
+*/
+
+.border-box {
+    -fx-border-style: solid;
+    -fx-border-width: 2px;
+    -fx-border-radius: 10px;
+    -fx-padding: 40 50 25 30;
+}
+
+.table-title {
+    -fx-font-weight: 900;
+    -fx-font-size: 25;
+}
+
+.table-col-label {
+    -fx-font-weight: 900;
+    -fx-font-size: 16;
+}
+
+.table-btns {
+    -fx-padding: 15 5 0 0;
+}

@@ -1,0 +1,27 @@
+/* 
+    Created on : Apr 22, 2021, 11:22:58 PM
+    Author     : alexhanson
+*/
+
+.product-input {
+    -fx-padding: 30 0 0 50;
+}
+
+.product-form-btn-wrapper {
+    -fx-padding: 0 30 0 0;
+}
+
+.add-part-btn-wrapper {
+    -fx-padding: 0 80 0 0;
+}
+
+.border-box {
+    -fx-border-style: solid;
+    -fx-border-width: 2px;
+    -fx-border-radius: 10px;
+}
+
+.table-col-label {
+    -fx-font-weight: 900;
+    -fx-font-size: 18;
+}

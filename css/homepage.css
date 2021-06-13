@@ -1,0 +1,25 @@
+/* 
+    Created on : Apr 13, 2021, 7:06:34 PM
+    Author     : alexhanson
+*/
+
+.homepage-title {
+    -fx-font-weight: 900;
+    -fx-font-size: 30px;
+}
+
+.table-view-container {
+    -fx-padding: 0 0 0 35;
+}
+
+.exit-btn {
+    -fx-padding: 0 100 0 0;
+}
+
+
+
+
+
+
+
+
